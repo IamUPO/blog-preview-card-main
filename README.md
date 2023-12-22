@@ -13,7 +13,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## View Live
 
-You can view the live version of this project on GitHub Pages: [Faq-accordion](https://iamupo.github.io/blog-preview-card-main/)
+You can view the live version of this project on GitHub Pages: [Blog preview](https://iamupo.github.io/blog-preview-card-main/)
 
 ## Connect with Me
 
